@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hello, I'm Ozzi Ardhiyanto 👋
+![Ozzi Ardhiyanto](img/github-header-image%20(1).png)
+
 
 <!--
 **ozziardhi/ozziardhi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
