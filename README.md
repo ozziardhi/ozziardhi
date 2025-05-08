@@ -1,4 +1,4 @@
-## Hello, I'm Ozzi Ardhiyanto 👋
+## Hello, I'm Ozzi Ardhiyantoo 👋
 ![Ozzi Ardhiyanto](img/github-header-image%20(1).png)
 
 
